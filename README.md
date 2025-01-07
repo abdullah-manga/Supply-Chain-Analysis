@@ -31,6 +31,7 @@ This analysis provides insights into supply chain efficiency, identifying key fa
 
 -   **Power BI**: Used for creating dashboards to analyze Kickstarter project data.
 -   **Excel**: Used for data exploration
+-   **Figam**: Used for dashboard UI design
 
 ---
 
