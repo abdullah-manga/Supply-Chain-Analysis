@@ -32,6 +32,28 @@ This analysis provides insights into supply chain efficiency, identifying key fa
 -   **Power BI**: Used for creating dashboards to analyze Kickstarter project data.
 -   **Excel**: Used for data exploration
 
+---
+
+## Dashboard
+
+### Logistics
+
+![Logistics](./Images/Repo/default1.png)
+
+> **Note**: The order frequency visual includes a tooltip for additional information if needed.
+
+### Sales
+
+![Sales](./Images/Repo/default2.png)
+
+### Detailed Insights
+
+![Details](./Images/Repo/default3.png)
+
+> **Warning**: Due to Power BI logic, to view the products that are low on stock, press the `Show Me` button and then apply filters if needed.
+
+---
+
 ### Data Analysis Insights
 
 ### Logistics Insights
@@ -124,26 +146,6 @@ This analysis provides insights into supply chain efficiency, identifying key fa
 ### Sustainability Considerations
 
 -   **Environmental Impact**: Evaluate the environmental impact of transportation modes and consider shifting more cargo to sea transportation for cost and sustainability benefits.
-
----
-
-## Dashboard
-
-### Logistics
-
-![Logistics](./Images/Repo/default1.png)
-
-> **Note**: The order frequency visual includes a tooltip for additional information if needed.
-
-### Sales
-
-![Sales](./Images/Repo/default2.png)
-
-### Detailed Insights
-
-![Details](./Images/Repo/default3.png)
-
-> **Warning**: Due to Power BI logic, to view the products that are low on stock, press the `Show Me` button and then apply filters if needed.
 
 ---
 
