@@ -29,7 +29,7 @@ This analysis provides insights into supply chain efficiency, identifying key fa
 
 ## Tools & Technologies
 
--   **Power BI**: Used for creating dashboards to analyze Kickstarter project data.
+-   **Power BI**: Used for creating dashboards to analyze supply chain data.
 -   **Excel**: Used for data exploration
 -   **Figma**: Used for dashboard UI design
 
